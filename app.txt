@@ -1,6 +1,6 @@
 Sistema de Cadastro de Clientes
 
-Funcionalidades:
+Funcionalidades do sistema:
 
 - Cadastro de clientes
 - Listagem de clientes
